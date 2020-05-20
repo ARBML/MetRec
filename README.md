@@ -22,13 +22,13 @@ Check `full_verse.h5` for a the full trained model. You can load it directly usi
 
 ## Results
 We acheive the following results compared to literature 
-Source | Technique | Language | Dataset | Results | Diacritics |
+Source | Technique | Language | Dataset | Accuracy | Diacritics |
 --- | --- | --- | --- |--- |--- 
 Kurt and Kara (2012) | Similarity and flaw based  | Ottoman | 340 poems | 97.35% | N/A
-Kaur and Saini (2017) |SVM | Punjabi |240 poems | 58.79 % | N/A
+Kaur and Saini (2017) |SVM | Punjabi |240 poems | 58.79% | N/A
 Ismail et al. (2010) | Expert system | Arabic | 20 poems | 100.0%| Yes 
-Alnagdawi et al. (2013)| Context free grammar | Arabic | 128 verses| 75.00 %|Yes
-Abuata and Al-Omari (2018)| Rule based algorithm|Arabic |417 verses |82.20 % |Yes 
+Alnagdawi et al. (2013)| Context free grammar | Arabic | 128 verses| 75.00%|Yes
+Abuata and Al-Omari (2018)| Rule based algorithm|Arabic |417 verses |82.20% |Yes 
 Our Approach | 5-BiGRU |Arabic | 55,440 verses |94.32% | No
 ## Examples 
 

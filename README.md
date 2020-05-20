@@ -10,7 +10,7 @@ Identifying the meters of Arabic poems is a lengthy and complicated process. To 
 We use Bidirectional GRU layers for training a character model for classifying 'baits' into one of 14 classes. Note that we discard the last two meters because we don't have enough data for them.
 
 <p align="center">
-  <img src = "meter.png"/>
+  <img src = "meters.png"/>
 </p>
 
 ## Model Architecture

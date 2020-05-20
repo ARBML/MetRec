@@ -6,8 +6,14 @@ This is a repository of the paper titled
 Poetry is an important component of any language. Much of a nation's history and culture are documented in poems. A poem has a rhythm flow which is quite different as compared to a prose. Each language has its own set of rhythmical structures for its poems, called meters.
 Identifying the meters of Arabic poems is a lengthy and complicated process. To classify a poem's meter, the text of the poem should be encoded in a special Arudi form which needs complex rule-based transformations before another set of rules can be used to finally classify the meters. This paper introduces a novel method for classifying poem meters of Arabic poems using RNN-based deep learning. It bypasses the need to transform the poem to the Arudi form as well as the need to explicitly encode the complex rules that are usually followed to determine the meter. The presented method was evaluated on a large dataset collected specifically for this purpose. We are able to classify the poem meters with an accuracy of 94.32\% on an independent test set.
 
-## Model Architecture 
+## Apporach 
+We use Bidirectional GRU layers for training a character model for classifying 'baits' into one of 14 classes. Note that we discard the last two meters because we don't have enough data for them.
 
+<p align="center">
+  <img src = "meter.png"/>
+</p>
+
+## Model Architecture
 <p align="center">
   <img src = "model.png"/>
 </p>

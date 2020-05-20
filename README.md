@@ -79,10 +79,15 @@ Our Approach | 5-BiGRU |Arabic | 55,440 verses |94.32% | No
 
 ## Dataset 
 
-The dataset is in the file `baits.zip` it is splitted into two files for training `train.txt` and testing `test.txt` and the labels of the meters are saved in the file `labels.txt`. The dataset consists of 
+The dataset is in the file `baits.zip` it is splitted into two files for training `train.txt` and testing `test.txt` and the labels of the meters are saved in the file `labels.txt`. The dataset was scrapped from [Aldiwan](https://www.aldiwan.net/) which is an encyclopedia of Arabic poetry where each poem is labeled by corrosponding poet, meter, era, etc. 
+
 ## Online Demo 
 
 The model can be tested on the browser using the following [demo](https://zaidalyafeai.github.io/ARBML/Interfaces/Website/ArabicPoemMeterClassification/index.html). 
+
+## License 
+
+MIT 
 
 ## Reference 
 

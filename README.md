@@ -1,6 +1,6 @@
 # AraMeter
 This is a repository of the paper titled 
-"Arabic Poetry Metric Classification Using Bidirectional Gated Recurrent Neural Networks". 
+"Arabic Poetry Metric Classification Using Bidirectional Gated Recurrent Neural Networks" - [link](https://authors.elsevier.com/a/1bA57_3qHiU8Fy). 
 
 ## Abstract
 Poetry is an important component of any language. Much of a nation's history and culture are documented in poems. A poem has a rhythm flow which is quite different as compared to a prose. Each language has its own set of rhythmical structures for its poems, called meters.
@@ -101,8 +101,7 @@ The model can be tested on the browser using the following [demo](https://zaidal
 MIT 
 
 ## Reference 
-
-`
+```
 @article{al2020meter,
   title={Meter Classification of Arabic Poems Using Deep Bidirectional Recurrent Neural Networks},
   author={Al-shaibani, Maged S and Alyafeai, Zaid and Ahmad, Irfan},
@@ -110,4 +109,4 @@ MIT
   year={2020},
   publisher={Elsevier}
 }
-`
+```

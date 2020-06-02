@@ -102,4 +102,12 @@ MIT
 
 ## Reference 
 
-to be added.
+`
+@article{al2020meter,
+  title={Meter Classification of Arabic Poems Using Deep Bidirectional Recurrent Neural Networks},
+  author={Al-shaibani, Maged S and Alyafeai, Zaid and Ahmad, Irfan},
+  journal={Pattern Recognition Letters},
+  year={2020},
+  publisher={Elsevier}
+}
+`

@@ -94,7 +94,7 @@ The dataset is in the file `baits.zip` it is splitted into two files for trainin
 
 ## Online Demo 
 
-The model can be tested on the browser using the following [demo](https://zaidalyafeai.github.io/ARBML/Interfaces/Website/ArabicPoemMeterClassification/index.html). 
+A "smaller" model can be tested on the browser using the following [demo](https://zaidalyafeai.github.io/ARBML/Interfaces/Website/ArabicPoemMeterClassification/index.html). 
 
 ## License 
 

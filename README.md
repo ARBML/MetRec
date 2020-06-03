@@ -25,7 +25,7 @@ We use Bidirectional GRU layers for training a character model for classifying '
 
 ## Model Training 
 
-Check the notebook `AraMeter.ipynb` for retraining the model. You can run it directly in [google colab](https://colab.research.google.com/github/zaidalyafeai/AraMeter/AraMeter.ipynb).
+Check the notebook `AraMeter.ipynb` for retraining the model. You can run it directly in [google colab](https://colab.research.google.com/github/zaidalyafeai/AraMeter/blob/master/AraMeter.ipynb).
 
 ## Trained Model 
 
